@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/classes-bc896edb21b31b285bbb628c5472432cdf66b644.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/AndroidStudioProjects/RSSReader/app/libs/android-query-full.0.26.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/android-query-full.0.26.7-d7bfa96d56e3ea0a9adfe27f41f78c3aa380347b.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-fb72a61585785377aec7a649949d2e944eab01bc.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-a6491ce806a4fe41c522483a19a07cc9a0471549.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-cb0109092a82c2af6f50bf58697ab7014fdc56f0.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/AndroidStudioProjects/RSSReader/app/libs/urlimageviewhelper-1.0.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67125d743e0035a1b157ba8210c2abf1ff374e10">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/urlimageviewhelper-1.0.4-ec1470acbca7287041626b6ec61d00aa85c51997.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.4.0/a0c195f14cefc7597e0bebf22c3e7b43920dcf4/okhttp-urlconnection-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a0c195f14cefc7597e0bebf22c3e7b43920dcf4">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.4.0-ac85986eae6f0cc7e78c78e0d478429389c274e3.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/okio-1.4.0-16149a392cffde9c64012ba002d2f68ab6d29258.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-fd0864d72abd7cdee5053b3d274be1993bd94a1a.jar" />
+    </item>
+    <item
+        jar="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/yamlin/AndroidStudioProjects/RSSReader/app/build/intermediates/pre-dexed/debug/classes-2a4e5b0111edc82dff79bd522915e6a90b49c799.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yahoo 新聞閱讀器</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rss_list">新聞列表</string>
+    <string name="title_activity_webview">新聞內容</string>
+</resources>
